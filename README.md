@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![MasterHead](https://github.com/TU_USUARIO/TU_USUARIO/blob/main/github-header.png)
+![MasterHead](https://github.com/Calix8D/Calix8D/blob/main/github-header.png)
 
 <h1 align="center">Hola 👋, Soy Calix Gómez</h1>
 
@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Calix8D&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -111,17 +111,17 @@ Aplicaciones desarrolladas utilizando:
 <h2>📊 GitHub Stats</h2>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Calix8D&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=github-dark&hide_border=true"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=Calix8D&theme=github-dark&hide_border=true"/>
 
 <br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calix8D&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -131,7 +131,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&l
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Calix8D&theme=github-dark&hide_border=true"/>
 
 </div>
 
