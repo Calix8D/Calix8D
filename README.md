@@ -14,19 +14,27 @@
 
 ---
 
-<img align="right" alt="Coding" width="370" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
-
 ## 👨‍💻 Sobre mí
+
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
 ```
 🔭 Proyecto actual  →  InventarioJacaVision (C# + SQL Server)
 🌱 Aprendiendo      →  Node.js · Python · Automatización · Web
 💬 Pregúntame sobre →  C# · SQL · Python · Java · Git · HTML/CSS/JS
+🎮 Dato curioso     →  Me gusta jugar en mi tiempo libre
 ⚡ Motivación       →  Crear software que resuelva problemas reales
 📫 Contacto         →  calixgomez9@gmail.com
 ```
 
-<br clear="right"/>
+  </td>
+  <td valign="top" width="45%" align="center">
+    <img alt="Coding" width="340" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif"/>
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -101,8 +109,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Calix8D" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
